@@ -1,0 +1,242 @@
+wban,station_name,state,latitude,longitude
+26451,Anchorage,AK,61.17,-150.02
+25308,Annette,AK,55.03,-131.57
+27502,Barrow,AK,71.30,-156.78
+26615,Bethel,AK,60.78,-161.80
+26533,Bettles,AK,66.92,-151.52
+26415,Big Delta,AK,64.00,-145.73
+25624,Cold Bay,AK,55.20,-162.72
+26411,Fairbanks,AK,64.82,-147.87
+26425,Gulkana,AK,62.15,-145.45
+25503,King Salmon,AK,58.68,-156.65
+25501,Kodiak,AK,57.75,-152.50
+26616,Kotzebue,AK,66.87,-162.63
+26510,McGrath,AK,62.97,-155.62
+26617,Nome,AK,64.50,-165.43
+25713,St. Paul Island,AK,57.15,-170.22
+26528,Talkeetna,AK,62.30,-150.10
+25339,Yakutat,AK,59.52,-139.67
+13876,Birmingham,AL,33.57,-86.75
+03856,Huntsville,AL,34.65,-86.77
+13894,Mobile,AL,30.68,-88.25
+13895,Montgomery,AL,32.30,-86.40
+13964,Fort Smith,AR,35.33,-94.37
+13963,Little Rock,AR,34.73,-92.23
+03103,Flagstaff,AZ,35.13,-111.67
+23183,Phoenix,AZ,33.43,-112.02
+23160,Tucson,AZ,32.13,-110.93
+24283,Arcata,CA,40.98,-124.10
+23155,Bakersfield,CA,35.42,-119.05
+23161,Daggett,CA,34.87,-116.78
+24213,Eureka,CA,40.81,-124.16
+93193,Fresno,CA,36.78,-119.72
+23129,Long Beach,CA,33.82,-118.15
+23174,Los Angeles,CA,33.93,-118.40
+23232,Sacramento,CA,38.52,-121.50
+23188,San Diego,CA,32.73,-117.17
+23234,San Francisco,CA,37.62,-122.38
+23273,Santa Maria,CA,34.90,-120.45
+23062,(Stapleton Int'l Airp),CO,39.77,-104.87
+23061,Alamosa,CO,37.45,-105.87
+94018,Boulder/Denver,CO,40.02,-105.25
+93037,Colorado Springs,CO,38.82,-104.72
+23063,Eagle,CO,39.65,-106.92
+23066,Grand Junction,CO,39.12,-108.53
+93058,Pueblo,CO,38.28,-104.50
+94702,Bridgeport,CT,41.17,-73.13
+14740,Hartford,CT,41.93,-72.68
+13781,Wilmington,DE,39.67,-75.60
+12832,Apalachicola,FL,29.73,-85.03
+12834,Daytona Beach,FL,29.18,-81.05
+13889,Jacksonville,FL,30.50,-81.70
+12836,Key West,FL,24.55,-81.75
+12839,Miami,FL,25.80,-80.30
+93805,Tallahassee,FL,30.38,-84.37
+12842,Tampa,FL,27.97,-82.53
+12844,West Palm Beach,FL,26.68,-80.12
+13873,Athens,GA,33.95,-83.32
+13874,Atlanta,GA,33.65,-84.43
+03820,Augusta,GA,33.37,-81.97
+93842,Columbus,GA,32.52,-84.95
+03813,Macon,GA,32.70,-83.65
+03822,Savannah,GA,32.13,-81.20
+21504,Hilo,HI,19.72,-155.07
+22521,Honolulu,HI,21.33,-157.92
+22516,Kahului,HI,20.90,-156.43
+22536,Lihue,HI,21.98,-159.35
+14933,Des Moines,IA,41.53,-93.65
+14940,Mason City,IA,43.15,-93.30
+14943,Sioux City,IA,42.40,-96.38
+94910,Waterloo,IA,42.55,-92.40
+24131,Boise,ID,43.57,-116.22
+24156,Pocatello,ID,42.92,-112.60
+94846,Chicago O'Hare AP,IL,42.00,-87.88
+14923,Moline,IL,41.45,-90.50
+14842,Peoria,IL,40.67,-89.68
+94822,Rockford,IL,42.20,-89.10
+93822,Springfield,IL,39.85,-89.68
+93817,Evansville,IN,38.05,-87.53
+14827,Fort Wayne,IN,41.00,-85.20
+93819,Indianapolis,IN,39.73,-86.27
+14848,South Bend,IN,41.70,-86.32
+13985,Dodge City,KS,37.77,-99.97
+23065,Goodland,KS,39.37,-101.70
+13996,Topeka,KS,39.07,-95.63
+03928,Wichita,KS,37.65,-97.43
+93814,Covington (Cincinnati),KY,39.05,-84.67
+93820,Lexington,KY,38.03,-84.60
+93821,Louisville,KY,38.18,-85.73
+13970,Baton Rouge,LA,30.53,-91.13
+03937,Lake Charles,LA,30.12,-93.22
+12916,New Orleans,LA,29.98,-90.25
+13957,Shreveport,LA,32.47,-93.82
+14739,Boston,MA,42.37,-71.03
+94746,Worcester,MA,42.27,-71.87
+93721,Baltimore,MD,39.18,-76.67
+14607,Caribou,ME,46.87,-68.02
+14764,Portland,ME,43.65,-70.32
+94849,Alpena,MI,45.07,-83.57
+94847,Detroit Metro AP,MI,42.23,-83.33
+14826,Flint,MI,42.97,-83.75
+94860,Grand Rapids,MI,42.88,-85.52
+94814,Houghton Lake,MI,44.37,-84.68
+14836,Lansing,MI,42.77,-84.60
+14840,Muskegon,MI,43.17,-86.25
+14847,Sault Ste. Marie,MI,46.47,-84.35
+14850,Traverse City,MI,44.73,-85.58
+14913,Duluth,MN,46.83,-92.18
+14918,International Falls,MN,48.57,-93.38
+14922,Minneapolis/St. Paul,MN,44.88,-93.22
+14925,Rochester,MN,43.92,-92.50
+14926,Saint Cloud,MN,45.55,-94.07
+03945,Columbia,MO,38.82,-92.22
+03947,Kansas City,MO,39.32,-94.72
+13995,Springfield,MO,37.23,-93.38
+13994,St. Louis,MO,38.75,-90.37
+03940,Jackson,MS,32.32,-90.08
+13865,Meridian,MS,32.33,-88.75
+24033,Billings,MT,45.80,-108.53
+24137,Cut Bank,MT,48.60,-112.37
+94008,Glasgow,MT,48.22,-106.62
+24143,Great Falls,MT,47.48,-111.37
+24144,Helena,MT,46.60,-112.00
+24146,Kalispell,MT,48.30,-114.27
+24036,Lewistown,MT,47.05,-109.45
+24037,Miles City,MT,46.43,-105.87
+24153,Missoula,MT,46.93,-114.10
+03812,Asheville,NC,35.43,-82.55
+93729,Cape Hatteras,NC,35.27,-75.55
+13881,Charlotte,NC,35.22,-80.93
+13723,Greensboro,NC,36.08,-79.95
+13722,Raleigh/Durham,NC,35.87,-78.78
+13748,Wilmington,NC,34.27,-77.90
+24011,Bismarck,ND,46.77,-100.75
+14914,Fargo,ND,46.90,-96.80
+24013,Minot,ND,48.27,-101.28
+14935,Grand Island,NE,40.97,-98.32
+14941,Norfolk,NE,41.98,-97.43
+24023,North Platte,NE,41.13,-100.68
+94918,Omaha N WSFO,NE,41.37,-96.02
+24028,Scottsbluff,NE,41.87,-103.60
+14745,Concord,NH,43.20,-71.50
+93730,Atlantic City,NJ,39.45,-74.57
+14734,Newark,NJ,40.70,-74.17
+23050,Albuquerque,NM,35.05,-106.62
+23048,Tucumcari,NM,35.18,-103.60
+24121,Elko,NV,40.83,-115.78
+23154,Ely,NV,39.28,-114.85
+23169,Las Vegas,NV,36.08,-115.17
+23185,Reno,NV,39.50,-119.78
+23153,Tonopah,NV,38.07,-117.08
+24128,Winnemucca,NV,40.90,-117.80
+14735,Albany,NY,42.75,-73.80
+04725,Binghamton,NY,42.22,-75.98
+14733,Buffalo,NY,42.93,-78.73
+94725,Massena,NY,44.93,-74.85
+94728,NYC (Central Park),NY,40.78,-73.97
+14732,NYC (LGA),NY,40.77,-73.90
+14768,Rochester,NY,43.13,-77.67
+14771,Syracuse,NY,43.12,-76.12
+14895,Akron/Canton,OH,40.92,-81.43
+14820,Cleveland,OH,41.42,-81.87
+14821,Columbus,OH,40.00,-82.88
+93815,Dayton,OH,39.90,-84.20
+14891,Mansfield,OH,40.82,-82.52
+94830,Toledo,OH,41.60,-83.80
+14852,Youngstown,OH,41.25,-80.67
+13967,Oklahoma City,OK,35.40,-97.60
+13968,Tulsa,OK,36.20,-95.90
+94224,Astoria,OR,46.15,-123.88
+24221,Eugene,OR,44.12,-123.22
+24225,Medford,OR,42.38,-122.88
+24284,North Bend,OR,43.42,-124.25
+24155,Pendleton,OR,45.68,-118.85
+24229,Portland,OR,45.60,-122.60
+24230,Redmond/Bend,OR,44.27,-121.15
+24232,Salem,OR,44.92,-123.00
+14737,Allentown,PA,40.65,-75.43
+04751,Bradford,PA,41.80,-78.63
+14860,Erie,PA,42.08,-80.18
+14751,Harrisburg,PA,40.22,-76.85
+13739,Philadelphia,PA,39.88,-75.25
+94823,Pittsburgh,PA,40.50,-80.22
+14777,Wilkes-Barre/Scranton/Avoca,PA,41.33,-75.73
+14778,Williamsport,PA,41.25,-76.92
+41415,Guam,PI,13.55,144.83
+11641,San Juan,PR,18.43,-66.00
+14765,Providence,RI,41.73,-71.43
+13880,Charleston,SC,32.90,-80.03
+13883,Columbia,SC,33.95,-81.12
+03870,Greenville/Spartanburg,SC,34.90,-82.22
+14936,Huron,SD,44.38,-98.22
+24025,Pierre,SD,44.38,-100.28
+24090,Rapid City,SD,44.05,-103.07
+14944,Sioux Falls,SD,43.57,-96.73
+13877,Bristol,TN,36.48,-82.40
+13882,Chattanooga,TN,35.03,-85.20
+13891,Knoxville,TN,35.82,-83.98
+13893,Memphis,TN,35.05,-90.00
+13897,Nashville,TN,36.12,-86.68
+13962,Abilene,TX,32.42,-99.68
+23047,Amarillo,TX,35.23,-101.70
+13958,Austin,TX,30.28,-97.70
+12919,Brownsville,TX,25.90,-97.43
+12924,Corpus Christi,TX,27.77,-97.50
+23044,El Paso,TX,31.80,-106.40
+03927,Fort Worth,TX,32.90,-97.03
+12960,Houston,TX,29.97,-95.35
+23042,Lubbock,TX,33.65,-101.82
+93987,Lufkin,TX,31.23,-94.75
+23023,Midland/Odessa,TX,31.95,-102.18
+12917,Port Arthur,TX,29.95,-94.02
+23034,San Angelo,TX,31.37,-100.50
+12921,San Antonio,TX,29.53,-98.47
+12912,Victoria,TX,28.85,-96.92
+13959,Waco,TX,31.62,-97.22
+13966,Wichita Falls,TX,33.97,-98.48
+93129,Cedar City,UT,37.70,-113.10
+24127,Salt Lake City,UT,40.78,-111.95
+13733,Lynchburg,VA,37.33,-79.20
+13737,Norfolk,VA,36.90,-76.20
+13740,Richmond,VA,37.50,-77.33
+13741,Roanoke,VA,37.32,-79.97
+93738,Sterling (Dulles Int'l.),VA,38.95,-77.45
+14742,Burlington,VT,44.47,-73.15
+24227,Olympia,WA,46.97,-122.90
+94240,Quillayute,WA,47.95,-124.55
+24233,Seattle/Tacoma AP,WA,47.45,-122.30
+24157,Spokane,WA,47.63,-117.53
+24243,Yakima,WA,46.57,-120.53
+14991,Eau Claire,WI,44.87,-91.48
+14898,Green Bay,WI,44.48,-88.13
+14920,La Crosse,WI,43.87,-91.25
+14837,Madison,WI,43.13,-89.33
+14839,Milwaukee,WI,42.95,-87.90
+13866,Charleston,WV,38.37,-81.60
+13729,Elkins,WV,38.88,-79.85
+03860,Huntington,WV,38.37,-82.55
+24089,Casper,WY,42.92,-106.47
+24018,Cheyenne,WY,41.15,-104.82
+24021,Lander,WY,42.82,-108.73
+24027,Rock Springs,WY,41.60,-109.07
+24029,Sheridan,WY,44.77,-106.97
