@@ -1,0 +1,6 @@
+# Downloaded model inputs and large terrain files
+downloads/
+
+# Files Python creates automatically
+__pycache__/
+*.pyc
